@@ -1,0 +1,18 @@
+# One Line, One Chill — ignore local runtime and editor litter only.
+# (Unique to this entry: keeps the repo to the five authored files.)
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+*.log
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+dist/
+build/
+*.egg-info/
+out/
+output/

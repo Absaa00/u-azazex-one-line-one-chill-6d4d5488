@@ -1,0 +1,14 @@
+Build a make.fun entry for the competition "One Line, One Chill"
+(u-azazex-one-line-one-chill-6d4d5488): write a single horror sentence
+under 200 characters that scares the reader in one breath.
+
+The sentence must be original, specific, and frightening — avoid
+cliches (no "it was all a dream", no mirror jumpscares, no "the call
+is coming from inside the house"). Prefer a quiet, clinical detail
+that turns dreadful on the last words: a trusted authority figure
+(a doctor) delivering impossible news in a calm voice.
+
+Deliverable: a deterministic, offline Python program (main.py, stdlib
+only) that prints exactly that one sentence when run, plus a README
+with the make.fun badge and a link back to the competition, a unique
+.gitignore, and an MIT LICENSE with an SPDX identifier.
